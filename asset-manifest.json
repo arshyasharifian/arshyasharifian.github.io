@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arshyasharifian.github.io./static/css/main.ed2ce2fb.css",
+    "main.js": "/arshyasharifian.github.io./static/js/main.4ec0a3c7.js",
+    "index.html": "/arshyasharifian.github.io./index.html",
+    "main.ed2ce2fb.css.map": "/arshyasharifian.github.io./static/css/main.ed2ce2fb.css.map",
+    "main.4ec0a3c7.js.map": "/arshyasharifian.github.io./static/js/main.4ec0a3c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed2ce2fb.css",
+    "static/js/main.4ec0a3c7.js"
+  ]
+}
